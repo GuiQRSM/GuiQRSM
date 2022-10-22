@@ -17,7 +17,7 @@
                         alt="burakimdat" height="30" width="40" /></a>
 </p>
 <br>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left">
